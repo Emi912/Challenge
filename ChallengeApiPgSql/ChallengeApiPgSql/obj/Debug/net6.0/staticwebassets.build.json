@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BuNn7FhPJNv0p/fdlYOy1NN1dxjy/EvRtl2qtxoZRrc=",
+  "Source": "ChallengeApiPgSql",
+  "BasePath": "_content/ChallengeApiPgSql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
